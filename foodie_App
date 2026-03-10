@@ -1,0 +1,14 @@
+Foodie – Food Menu Web App
+
+A simple food ordering/menu web application that allows users to browse different food categories such as breakfast, lunch, and dinner. Users can view food items with descriptions, preparation time, servings, and prices. The project demonstrates basic frontend web development concepts including UI design, responsive layout, and menu display functionality.
+
+Features:
+Browse food categories
+View food items with price and details
+Simple and clean UI
+Responsive design
+
+Tech Used:
+HTML
+CSS
+JavaScript
